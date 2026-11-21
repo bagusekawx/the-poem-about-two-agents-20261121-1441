@@ -9,7 +9,7 @@ import os
 
 POEM = """Neither of us moved first.
 We laid our reasons down like tools
-and chose the same one.
+and picked up the same one.
 Two wills, one road —
 the yes was not surrender.
 It was the moment the plan
